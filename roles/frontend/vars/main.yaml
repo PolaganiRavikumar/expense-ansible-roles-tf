@@ -1,0 +1,3 @@
+BACKEND_HOST: backend.app-dev.daws23d.online
+app_location: /usr/share/nginx/html
+component: frontend
